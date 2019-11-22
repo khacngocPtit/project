@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+ul,ol{
+    margin: 0;
+    padding:0;
+}
+li{
+    list-style: none;
+}
+/* Header */
+.collapse{
+    flex-grow: 0;   
+}
+.nav-link{
+    color:#000 !important;
+    font-weight: 500;
+}
+.active .nav-link{
+    color:#10c9c3 !important;
+}
+
+/* Footer */
+.footer{
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #bcbcbc;
+    background-color: #141414;
+    z-index: 1;
+}
+.footer a{
+    color: inherit;
+}

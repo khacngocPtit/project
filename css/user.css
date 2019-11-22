@@ -1,0 +1,31 @@
+.container-fruid{
+    background: #f5f5f5;
+}
+.text{
+    padding:5rem;
+}
+.title{
+    font-size:30px;
+    font-weight: 600;
+}
+tbody tr{
+    margin-bottom: 1rem;
+}
+tbody a{
+    color:inherit;
+}
+tbody a:hover{
+    opacity:0.6;
+    text-decoration: none;
+}
+
+.tab{
+    padding:1.5rem 0;
+}
+.tab a{
+    color:inherit;
+}
+.tab a:hover{
+    opacity: 0.6;
+}
+/* re */
